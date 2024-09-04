@@ -1,6 +1,9 @@
 body
 {
-    background: #ff0000 url("mtb.jpg") no-repeat left top;
+  background-image: url("mtb.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-attachment: fixed;
 }
 
 P
