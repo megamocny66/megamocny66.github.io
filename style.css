@@ -2,7 +2,7 @@ body
 {
   background-image: url("mtb.jpg");
   background-repeat: no-repeat;
-  background-position: left top;
+  background-position: right top;
   background-attachment: fixed;
 }
 
